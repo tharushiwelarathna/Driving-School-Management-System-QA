@@ -14,7 +14,7 @@ This project is a **Driving School Management System with AI ChatBot**, designed
 
 ## 📂 Project Documents  
 - 🔗 [Test Plan Document](Test_Plans/Test_Plan_V1.1.pdf)  
-- 🔗 [Bug Report](Bug_Reports/Bug Report.pdf)
+- 🔗 [Bug Report](Bug_Reports/Bug_Report.pdf)
 - 🔗 [Test Cases](Test_Cases/Manual_Test_Cases_DSMS.pdf)  
 - 🔗 [Selenium Test Scripts](Selenium_Scripts/Automation_Testing.pdf)
 )  
